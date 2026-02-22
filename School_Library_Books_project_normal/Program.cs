@@ -10,6 +10,7 @@ namespace School_Library_Books_project_normal
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
